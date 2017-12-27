@@ -19,4 +19,4 @@
 
 
 @endforeach
-@enddsection
+@endsection
