@@ -19,4 +19,8 @@
 
 
 @endforeach
+<<<<<<< HEAD
 @endsection
+=======
+@endsection
+>>>>>>> 47b5215c47ecb6b80cbfbc8da39fbee9b640059c
